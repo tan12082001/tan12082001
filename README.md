@@ -16,6 +16,6 @@
 
 ### Profile Status
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tan12082001)](https://github.com/tan12082001/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan12082001&show_icons=true&theme=onedark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tan12082001)](https://git.io/streak-stats)
