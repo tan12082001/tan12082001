@@ -16,6 +16,6 @@
 
 ### Profile Status
 
-[![Tanmayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tan12082001)](https://github.com/tan12082001/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tan12082001)](https://github.com/tan12082001/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tan12082001)](https://git.io/streak-stats)
